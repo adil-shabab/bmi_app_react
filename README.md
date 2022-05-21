@@ -1,3 +1,8 @@
+# To see the website click this link:
+    https://bmi-app-react.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

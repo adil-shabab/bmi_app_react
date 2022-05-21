@@ -1,4 +1,4 @@
-https://bmi-app-react.netlify.app/
+
 # To see the website click this link:
 https://bmi-app-react.netlify.app/
 
